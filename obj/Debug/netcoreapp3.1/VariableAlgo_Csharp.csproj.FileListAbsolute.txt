@@ -1,0 +1,12 @@
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/bin/Debug/netcoreapp3.1/VariableAlgo_Csharp.deps.json
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/bin/Debug/netcoreapp3.1/VariableAlgo_Csharp.runtimeconfig.json
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/bin/Debug/netcoreapp3.1/VariableAlgo_Csharp.runtimeconfig.dev.json
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/bin/Debug/netcoreapp3.1/VariableAlgo_Csharp.dll
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/bin/Debug/netcoreapp3.1/VariableAlgo_Csharp.pdb
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/obj/Debug/netcoreapp3.1/VariableAlgo_Csharp.csprojAssemblyReference.cache
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/obj/Debug/netcoreapp3.1/VariableAlgo_Csharp.AssemblyInfoInputs.cache
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/obj/Debug/netcoreapp3.1/VariableAlgo_Csharp.AssemblyInfo.cs
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/obj/Debug/netcoreapp3.1/VariableAlgo_Csharp.csproj.CoreCompileInputs.cache
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/obj/Debug/netcoreapp3.1/VariableAlgo_Csharp.dll
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/obj/Debug/netcoreapp3.1/VariableAlgo_Csharp.pdb
+/Users/ahrorbek/REPOS/VariableAlgo_Csharp/obj/Debug/netcoreapp3.1/VariableAlgo_Csharp.genruntimeconfig.cache
