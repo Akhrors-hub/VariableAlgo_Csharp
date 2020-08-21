@@ -9,8 +9,8 @@ https://docs.google.com/document/d/1dzUA39n5rpA58U-fVgl7sXR9rz0-BTdJoVd__MU6QdU/
 
 
 ## Declared and initialized a variable
-            // camelCase with the variable name
-            //explicit typing
+## camelCase with the variable name
+## explicit typing
             string dogName = "Rolf";
             int dogAge = 10;
             char nickName = 'R';
