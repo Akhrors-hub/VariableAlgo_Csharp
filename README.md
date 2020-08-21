@@ -1,6 +1,9 @@
 **VariableAlgo_Csharp
 
+https://docs.google.com/document/d/1QE5ehwrZMl3L1bQZZSTEPnnpQ6x16m1GRjPFAKHzAN0/edit
 
+## Variables class
+https://docs.google.com/document/d/1dzUA39n5rpA58U-fVgl7sXR9rz0-BTdJoVd__MU6QdU/edit
             // Variables Algorith practice
 
 
