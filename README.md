@@ -4,7 +4,19 @@ https://docs.google.com/document/d/1QE5ehwrZMl3L1bQZZSTEPnnpQ6x16m1GRjPFAKHzAN0/
 
 ## Variables class
 https://docs.google.com/document/d/1dzUA39n5rpA58U-fVgl7sXR9rz0-BTdJoVd__MU6QdU/edit
-            // Variables Algorith practice
+
+### Running the  C# files on your REPO
+1. Open the Terminal
+2. Type: dotnet new console
+3. Type: dotnet build
+4. Type: dotnet run
+
+
+
+
+
+
+  // Variables Algorith practice
 
 
 
